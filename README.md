@@ -1,4 +1,4 @@
-﻿## Retos de código de la Unidad 1: La Web desde un móvil del sprint 3 del bootcamp de @Laboratoria
+﻿## Reto de código de la Unidad 1: La Web desde un móvil del sprint 3 del bootcamp de @Laboratoria
 
  ### 2. Mi página
 
